@@ -1,0 +1,5 @@
+这是国际会议文章的代码
+gennerateLFRdatasets这个文件夹是生成LFR基准网络的程序，在Ubuntu里面跑
+
+python这个文件是libSVM的python文件夹相同，将程序拷贝过去即可
+
